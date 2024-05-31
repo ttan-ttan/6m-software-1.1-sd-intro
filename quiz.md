@@ -35,7 +35,7 @@
 
 ### Q6: Only the Chrome browser has a developer tool?
 - A: True
-- B: False  (false)
+- B: False  (correct)
 ---
 
 ### Q7: Which of the following can be done to access the developer tools in Chrome?
